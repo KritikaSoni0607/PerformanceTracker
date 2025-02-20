@@ -7,11 +7,8 @@ The PerformanceTracker is a Solidity smart contract that allows users to record 
 **Features**
 
 Users can record their performance scores.
-
 Anyone can retrieve stored performance data by providing a user's address.
-
 Ensures only valid scores are recorded.
-
 Smart Contract Details
 
 **Data Structures**
